@@ -5,6 +5,6 @@ The main purpose of this task is to learn Java threads and use them in my code
 
 Decomposition of tasks:
 
-Create Bank class which is the main object. Bank stores clients' data such as account number, balance etc.
-Create ATM class which connects with bank and allows client to withdraw money.
-Create Terminal class which allows client to put money to their account.
+1. Create Bank class which is the main object. Bank stores clients' data such as account number, balance etc.
+2. Create ATM class which connects with bank and allows client to withdraw money.
+3. Create Terminal class which allows client to put money to their account.
